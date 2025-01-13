@@ -26,7 +26,7 @@ A real-time cryptocurrency dashboard built with Next.js that displays detailed i
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/natalrhyme/crypto-frontend
 ```
 
 2. Install dependencies:
