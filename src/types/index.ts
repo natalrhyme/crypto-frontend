@@ -37,3 +37,12 @@ export interface TrendingCoin {
     };
   };
 }
+
+export interface BitcoinPrice {
+  bitcoin: {
+    inr: number;
+    usd: number;
+    inr_24h_change: number;
+    usd_24h_change: number;
+  }
+}
