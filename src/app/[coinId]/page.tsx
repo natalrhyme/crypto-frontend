@@ -36,3 +36,4 @@ export default async function CoinPage({ params }: PageProps) {
       </div>
     </div>
   );
+}
